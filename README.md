@@ -18,7 +18,7 @@
 
 Willkommen zum Tutorial: Modern **JavaScript Stack from Sratch**
 
-> 🎉  **Dies ist eine deutsche Übersetzung von Version 2 des Tutorials. Seit dem Release im Jahr 2016 haben sich große Änderungen ergeben. Für die Änderungen siehe [Change Log](/CHANGELOG.md)!**
+> 🎉  **Dies ist eine deutsche Übersetzung von Version 2 des Tutorials. Seit dem Release im Jahr 2016 haben sich große Änderungen ergeben. Für die Änderungen schaue bitte in das [Change Log](/CHANGELOG.md)!**
 
 Dieses Tutorial ist eine Anleitung wie man einen JavaScript Stack zusammensetzt. Es erfordert einige generelle Programmiererfahrung, sowie JavaScript Grundlagen. **Das Tutorial konzentriert sich darauf die Tools miteinander zu verbinden** und stellt dir das **einfachste mögliche Beispiel** für jedes Tool zur Verfügung.
 Dieses Tutorial stellt einen Weg zur Verfügung, um eine eigene *Standardlösung von Beginn an* zu erstellen. Ziel dieses Tutorials ist es verschiedene Tools zu verbinden, deshalb werde ich nicht detailliert auf die Verwendung der einzelnen Tools eingehen. Wenn du dir tieferes Wissen aneignen willst besuche andere Tutorials oder sie dir offizielle Dokumentation an.
@@ -27,7 +27,7 @@ Wenn du nur eine einfache Webseite mit einigen JS Interaktionen erstellen willst
 
 Ein großer Teil des beschriebenen Stacks benutzt React. Wenn du gerade erst beginnst und einfach nur React lernen willst, dann hilft dir [create-react-app](https://github.com/facebookincubator/create-react-app) eine React Umgebung schnell mit vorkonfigurierter Einstellung aufzusetzen. Diesen Ansatz empfehle ich an alle, die gerade in einem Team ankommen, welches React nutzt und schnell eine Lernumgebung benötigen. In diesem Tutorial wird keine vor eingestellte Konfiguration verwendet, weil ich möchte, dass du alles verstehst was unter der Oberfläche passiert. 
 
-Code Beisipele sind für jedes Kapitel verfügbar, du kannst sie alle mit `yarn && yarn start`ausführen. Trotzdem empfehle ich alles selbst zu schreiben während du den **Schritt-für-Schritt Anweisungen** folgst.
+Code Beisipele sind für jedes Kapitel verfügbar, du kannst sie alle mit `yarn && yarn start` ausführen. Trotzdem empfehle ich alles selbst zu schreiben während du den **Schritt-für-Schritt Anweisungen** folgst.
 
 Der finale Code ist unter [JS-Stack-Boilerplate repository](https://github.com/verekia/js-stack-boilerplate) verfügbar. Außerdem ist eine [live demo](https://js-stack.herokuapp.com/) verfügbar.
 
@@ -54,11 +54,11 @@ Funktioniert mit Linux, macOS und Windows.
 
 [09 - Travis, Coveralls, Heroku](/tutorial/09-travis-coveralls-heroku.md#readme)
 
-## Coming up next
+## Als nächstes im Tutorial
 
-Setting up your editor (Atom first), MongoDB, Progressive Web App.
+Einrichten eines Editors (Atom), MongoDB, Progressive Web App.
 
-## Translations
+## Übersetzungen
 
 If you want to add your translation, please read the [translation recommendations](/how-to-translate.md) to get started!
 
@@ -79,5 +79,7 @@ Check out the [ongoing translations](https://github.com/verekia/js-stack-from-sc
 ## Credits
 
 Created by [@verekia](https://twitter.com/verekia) – [verekia.com](http://verekia.com/).
+
+Translated by [@jnes92](https://github.com/jnes92)
 
 License: MIT
